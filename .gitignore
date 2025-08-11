@@ -1,0 +1,10 @@
+venv/
+# Ignore model weights
+*.pth
+*.pt
+*.bin
+*.ckpt
+
+# Ignore weights folders in all tools
+tools/**/weights/
+tools/**/weights/**
