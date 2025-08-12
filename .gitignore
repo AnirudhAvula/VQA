@@ -8,3 +8,5 @@ venv/
 # Ignore weights folders in all tools
 tools/**/weights/
 tools/**/weights/**
+
+__pycache__/
