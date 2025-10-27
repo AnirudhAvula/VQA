@@ -10,3 +10,5 @@ tools/**/weights/
 tools/**/weights/**
 
 __pycache__/
+
+.env
